@@ -1,4 +1,6 @@
-
+'''
+請參看largest_product ipynb的注解說明
+'''
 
 minus_count=0
 def calc_temp_list(n, data):
